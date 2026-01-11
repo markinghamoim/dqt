@@ -1,0 +1,11 @@
+pandas
+jinja2
+duckdb
+python-dotenv
+decouple
+pytest
+sqlparse
+snowflake-connector-python[pandas]
+python-decouple
+ipykernel
+
