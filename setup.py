@@ -14,8 +14,8 @@ setup(
     version='1.4.1',  # Update this to match your package version
     description='Python Data Query Tool',
     long_description='A project which aides in querying of both local and cloud based relational, tabular data.',
-    author='Your Name',  # Update with your name
-    author_email='your.email@example.com',  # Update with your email
+    author='Mark Ingham',  # Update with your name
+    author_email='mark.ingham@osmosisim.com',  # Update with your email
     url='https://github.com/markinghamoim/dqt',
     packages=find_packages(),
     install_requires=read_requirements(),
